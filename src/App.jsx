@@ -94,7 +94,7 @@ export const App =() => {
   <div class="Container">
      	<div class="row">
      		<div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_1.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_1.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">I am thoroughly impressed with the exceptional work done by Web Logic Labs. Their attention to detail and dedication to delivering high-quality solutions surpassed my expectations. I highly recommend their services to anyone seeking top-notch web development.</p>
          </div>
@@ -104,7 +104,7 @@ export const App =() => {
 
 
         < div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_2.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_2.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">Working with Web Logic Labs has been an absolute pleasure. Their professionalism, expertise, and innovative approach have contributed significantly to the success of our projects. I look forward to collaborating with them on future endeavors.</p>
          </div>
@@ -113,7 +113,7 @@ export const App =() => {
      		
 
          < div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_3.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_3.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">The user-friendly interface and seamless functionality of the applications developed by Web Logic Labs have greatly enhanced my experience. Their commitment to excellence is evident in every aspect of their work. Kudos to the team for their outstanding contributions!</p>
          </div>
@@ -122,7 +122,7 @@ export const App =() => {
      		
 
          < div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_4.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_4.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">Working alongside the talented team at Web Logic Labs has been an enriching experience. Their collaborative spirit, professionalism, and dedication to excellence make them stand out in the industry. It's a privilege to be part of such a dynamic team!</p>
          </div>
@@ -131,7 +131,7 @@ export const App =() => {
      		
 
          < div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_5.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_5.jpg" alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">Web Logic Labs has consistently delivered outstanding results, exceeding our expectations every time. Their ability to understand our needs and translate them into robust solutions is commendable. I have complete confidence in their capabilities and would recommend them without hesitation.</p>
          </div>
@@ -140,7 +140,7 @@ export const App =() => {
      		
 
          < div class="col-md-4 " id='image-container'>
-         <img src="../../images/img_6.jpg"alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
+         <img src="images/img_6.jpg"alt="Description of the image" style={{height:300,width:355,display:'block',margin:'auto'}} />
          <div id='content'>
          <p class="image-text">As an industry expert, I am continually impressed by the innovative solutions offered by Web Logic Labs. Their forward-thinking approach and commitment to staying at the forefront of technology make them a leader in the field. Keep up the fantastic work!</p>
          </div>
@@ -185,7 +185,7 @@ export const App =() => {
      		</div>
            
      		<div class="col-md-6 ">
-             <img src="../../images/img_4.jpg" alt="Description of the image" 
+             <img src="images/img_4.jpg" alt="Description of the image" 
              style={{height:350,width:400,display:'block',margin:'auto'}} />	
      		</div>
 
@@ -246,7 +246,7 @@ export const App =() => {
 
 
 
-<div class="containerprops" style={{paddingTop:'8%'}} id="services">
+<div class="containerprops" style={{paddingTop:'2%'}} id="services">
             <div class="row">
      		<div class="col-md-12 ">
      		<h1 style={{ fontFamily: 'Times New Roman, Times, serif' ,
@@ -272,12 +272,12 @@ export const App =() => {
                 </p>
      		</div>
      		<div class="col-md-5">
-			 <img src="../../images/web.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
+			 <img src="images/web.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
      		</div>
 
 			 <h2 style={{paddingTop:20}}>Digital Marketing</h2><hr/>
      		<div class="col-md-5">
-			 <img src="../../images/dm.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
+			 <img src="images/dm.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
      		</div>
      		<div class="col-md-7">
 			 
@@ -312,7 +312,7 @@ export const App =() => {
 				</p>
      		</div>
 			 <div class="col-md-5">
-     	    <img src="../../images/ai.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
+     	    <img src="images/ai.jpg" alt="Description of the image" style={{height:300,width:400,display:'block',margin:'auto'}} />
      		</div>			 
 </div>
 </div>
@@ -326,14 +326,14 @@ export const App =() => {
 <h1 style={{ fontFamily: 'Times New Roman, Times, serif' ,
               color: '#0f172a',fontSize:"50px",textShadow:'2px 2px 5px blue',paddingBottom:'1%'}}>Clients</h1>
       <marquee className="image-marquee" behavior="scroll" direction="left" scrollamount="3">
-        <img src="../../images/image1.png" alt="Image 1" className="image" />
-        <img src="../../images/image2.png"  alt="Image 2" className="image" />
-        <img src="../../images/image3.png"  alt="Image 3" className="image" />
-        <img src="../../images/image4.png"  alt="Image 4" className="image" />
-        <img src="../../images/image5.png"  alt="Image 5" className="image" />
-        <img src="../../images/image6.png"  alt="Image 6" className="image" />
-        <img src="../../images/image7.png"  alt="Image 7" className="image" />
-        <img src="../../images/image8.png"  alt="Image 8" className="image" />
+        <img src="images/image1.png" alt="Image 1" className="image" />
+        <img src="images/image2.png"  alt="Image 2" className="image" />
+        <img src="images/image3.png"  alt="Image 3" className="image" />
+        <img src="images/image4.png"  alt="Image 4" className="image" />
+        <img src="images/image5.png"  alt="Image 5" className="image" />
+        <img src="images/image6.png"  alt="Image 6" className="image" />
+        <img src="images/image7.png"  alt="Image 7" className="image" />
+        <img src="images/image8.png"  alt="Image 8" className="image" />
       </marquee>
       
     </div>
@@ -346,7 +346,7 @@ export const App =() => {
 
 
 
-    <div class="containerprops" style={{paddingTop:'7%'}} id="contact">
+    <div class="containerprops" style={{paddingTop:'2%'}} id="contact">
      	<div class="row">
 <h1 style={{ fontFamily: 'Times New Roman, Times, serif' , color: '#0f172a',
 fontSize:"50px",textShadow:'2px 2px 5px blue',paddingTop:'2%' }}>Let's Talk</h1>
